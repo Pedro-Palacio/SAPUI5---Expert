@@ -1,0 +1,12 @@
+<mvc:View
+   xmlns="sap.m"
+   xmlns:mvc="sap.ui.core.mvc"
+   controllerName="logaligroup.SAPUI5.controller.App">
+
+   <Button id="_IDGenButton1" text="{i18n>showHelloButton}" press=".onShowHello"></Button>
+   <Input id="button" value="{/recipient/name}" valueLiveUpdate="true" width="40%" description="Hello {/recipient/name}"/> 
+        
+   
+
+
+</mvc:View>
