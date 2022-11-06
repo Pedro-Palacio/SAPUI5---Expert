@@ -1,6 +1,6 @@
 sap.ui.define([
     "sap/ui/core/UIComponent",
-    "logaligroup/SAPUI5/model/Model", //The model that we define in our Models folder
+    "logaligroup/SAPUI5/model/Model", //Local model in Model folder
     "sap/ui/model/resource/ResourceModel" //The i18n sap model
 ],
     /**
